@@ -1,0 +1,16 @@
+labje 1 en 2
+
+<html>    
+    <body>
+        <script type="text/javascript"> //Damian Verburg, Software developer 
+            var firstname;                                                                       //maakt variabelen voornaam
+            var lastname;                                                                        //maakt variablen achternaam
+            var age;                                        //maakt variablen leeftijd
+            firstname   = prompt ("wat is je voornaam?");                                        //stelt vraag voor voornaam
+            lastname    = prompt ("wat is je achternaam?");                                      //stelt vraag voor achternaam
+            age         = prompt ("wat is je leeftijd?");                                        //stelt vraag voor leeftijd
+            document.write("<h1>" + firstname + " " + lastname + "<br>" + age + "</h1>");        //zet antwoorden op site
+        </Script>
+    </body>
+</html>
+
