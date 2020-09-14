@@ -105,7 +105,7 @@ pizza calculator:
             document.write("<h1>" + "je heeft:" + SmallPizza + "Small pizza's gekozen" + "<br>" + "</h1>");
             document.write("<h1>" + "je heeft:" + MediumPizza + "Medium pizza's gekozen" + "<br>" + "</h1>");
             document.write("<h1>" + "je heeft:" + LargePizza + "Large pizza's gekozen" + "<br>" + "</h1>");
-            document.write("<h1>" = "het totaal bedrag is" + "€" + TotalPrize + ",-" + "</h1>");
+            document.write("<h1>" + "het totaal bedrag is" + "€" + TotalPrize + ",-" + "</h1>");
         </script>
         </body>
     </html>
